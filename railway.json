@@ -1,0 +1,10 @@
+{
+  "build": {
+    "builder": "NIXPACKS"
+  },
+  "deploy": {
+    "env": {
+      "NIXPACKS_PHP_VERSION": "8.3"
+    }
+  }
+}
